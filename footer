@@ -1,0 +1,6 @@
+<div class="menu-list row">
+    <div class="col menu-btn">公告</div>
+    <div class="col menu-btn">天氣</div>
+    <div class="col menu-btn">時刻表</div>
+    <div class="col menu-btn">設定</div>
+</div>
